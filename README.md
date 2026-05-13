@@ -35,8 +35,8 @@ Difficulty Modes
 Smart Hint System
 
 The game provides intelligent hints such as:
-- 🔥 Scorching hot / very close
-- ❄️ Ice cold / far away
+- Scorching hot / very close
+- Ice cold / far away
 - Even/Odd hints
 - Divisibility hints
 - Number range segmentation
