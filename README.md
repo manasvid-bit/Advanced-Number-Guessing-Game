@@ -1,8 +1,5 @@
-Advanced Number Guessing Game
 
-A fully featured console-based Number Guessing Game developed in C.  
-This project evolved from a basic beginner guessing game into an intermediate-level game application with advanced gameplay mechanics, AI opponent mode, leaderboard system, statistics tracking, file handling, input validation, and cross-platform support.
-
+Advanced console-based number guessing game in C featuring AI opponent mode, multiplayer gameplay, persistent leaderboards, statistics tracking, file handling, and interactive terminal UI.
 ---
 
 Features
