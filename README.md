@@ -1,13 +1,13 @@
-# 🎯 Advanced Number Guessing Game
+Advanced Number Guessing Game
 
 A fully featured console-based Number Guessing Game developed in C.  
 This project evolved from a basic beginner guessing game into an intermediate-level game application with advanced gameplay mechanics, AI opponent mode, leaderboard system, statistics tracking, file handling, input validation, and cross-platform support.
 
 ---
 
-# 📌 Features
+Features
 
-## 🎮 Core Gameplay
+Core Gameplay
 - Random number generation
 - Multiple difficulty levels
 - Limited attempts system
@@ -19,7 +19,7 @@ This project evolved from a basic beginner guessing game into an intermediate-le
 
 ---
 
-# 🧠 Difficulty Modes
+Difficulty Modes
 
 | Difficulty | Range | Attempts |
 |---|---|---|
@@ -30,7 +30,7 @@ This project evolved from a basic beginner guessing game into an intermediate-le
 
 ---
 
-# 💡 Smart Hint System
+Smart Hint System
 
 The game provides intelligent hints such as:
 - 🔥 Scorching hot / very close
@@ -42,7 +42,7 @@ The game provides intelligent hints such as:
 
 ---
 
-# 🏆 Score System
+Score System
 
 Score is dynamically calculated using:
 - Difficulty level
@@ -51,7 +51,7 @@ Score is dynamically calculated using:
 
 ---
 
-# 🤖 AI Opponent Mode
+AI Opponent Mode
 
 Includes an AI opponent that uses:
 - Binary Search Algorithm
@@ -60,7 +60,7 @@ The AI intelligently guesses the secret number using optimized logic.
 
 ---
 
-# 👥 Two Player Mode
+Two Player Mode
 
 Features:
 - Player vs Player gameplay
@@ -69,7 +69,7 @@ Features:
 
 ---
 
-# 📊 Statistics Dashboard
+Statistics Dashboard
 
 Tracks:
 - Total games played
@@ -81,7 +81,7 @@ Tracks:
 
 ---
 
-# 🥇 Leaderboard System
+Leaderboard System
 
 Features:
 - Persistent high scores
@@ -91,7 +91,7 @@ Features:
 
 ---
 
-# 🔒 Input Validation
+Input Validation
 
 The game safely handles:
 - Invalid inputs
@@ -101,7 +101,7 @@ The game safely handles:
 
 ---
 
-# 🚨 Cheat Detection
+Cheat Detection
 
 Detects:
 - Repeated guesses
@@ -109,7 +109,7 @@ Detects:
 
 ---
 
-# 🎨 UI / UX Features
+UI / UX Features
 
 - ANSI color-based terminal interface
 - ASCII art banners
@@ -119,7 +119,7 @@ Detects:
 
 ---
 
-# 💻 Cross Platform Support
+Cross Platform Support
 
 Supports:
 - Windows
@@ -134,7 +134,7 @@ Implemented using conditional compilation:
 
 ---
 
-# 📂 Technologies & Libraries Used
+Technologies & Libraries Used
 
 ## Standard Libraries
 
@@ -169,7 +169,7 @@ Used for:
 
 ---
 
-# 🧱 Programming Concepts Used
+Programming Concepts Used
 
 ## Beginner Concepts
 - Variables
@@ -193,7 +193,7 @@ Used for:
 
 ---
 
-# 📁 File Structure
+File Structure
 
 ```text
 Advanced-Number-Guessing-Game
@@ -205,7 +205,7 @@ Advanced-Number-Guessing-Game
 
 ---
 
-# ⚙️ How to Compile & Run
+How to Compile & Run
 
 ## Using GCC
 
@@ -221,7 +221,7 @@ gcc main.c -o game
 
 ---
 
-# 🖼️ Preview
+Preview
 
 (Add screenshots here)
 
