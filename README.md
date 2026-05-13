@@ -1,7 +1,12 @@
 
 Advanced console-based number guessing game in C featuring AI opponent mode, multiplayer gameplay, persistent leaderboards, statistics tracking, file handling, and interactive terminal UI.
 ---
+Run Locally
 
+```bash
+gcc main.c -o game
+./game
+```
 Features
 
 Core Gameplay
